@@ -1,0 +1,4 @@
+- Installed Anaconda
+- Learned variables
+- Learned int, float, str, bool, bytes, None
+- Learned type()
