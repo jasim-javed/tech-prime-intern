@@ -10,3 +10,9 @@ This repository contains my daily progress during my Python internship.
   - Data types
   - type()
   - int, float, str, bool, bytes, NoneType
+## Day 2
+
+- Learned variable casting
+- Learned string operations
+- Learned string slicing
+- Learned string modification
