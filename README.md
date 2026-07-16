@@ -30,3 +30,26 @@ This repository contains my daily progress during my Python internship.
   - Removing items
   - Using methods such as `keys()`, `values()`, `items()`, `get()`, `update()`, `pop()`, `clear()`, and `copy()`
 - Learned the concept of nested dictionaries
+
+## Day 4
+
+- Learned conditional statements:
+  - `if`
+  - `if-else`
+  - `if-elif-else`
+  - Nested `if` statements
+- Practiced comparison and logical operators in conditions
+- Learned `while` loops and loop control
+- Learned `for` loops using:
+  - `range()`
+  - Lists
+  - Strings
+- Practiced loop control statements:
+  - `break`
+  - `continue`
+- Learned Python functions:
+  - Creating functions using `def`
+  - Calling functions
+  - Function parameters and arguments
+  - Variable-length arguments (`*args`)
+  - Returning values using `return`
