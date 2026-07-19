@@ -53,3 +53,16 @@ This repository contains my daily progress during my Python internship.
   - Function parameters and arguments
   - Variable-length arguments (`*args`)
   - Returning values using `return`
+
+  ## Week 1 Mini Project: Student Management System
+
+### Project Overview
+Developed a simple console-based Student Management System using Python fundamentals learned during Week 1.
+
+### Features
+- Add a new student
+- View all students
+- Update student information
+- Delete a student record
+- Menu-driven interface
+- Exit the application
