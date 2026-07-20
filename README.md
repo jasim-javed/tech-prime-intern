@@ -66,3 +66,20 @@ Developed a simple console-based Student Management System using Python fundamen
 - Delete a student record
 - Menu-driven interface
 - Exit the application
+
+
+## Day 6
+
+- Installed and imported the NumPy library
+- Learned how to create NumPy arrays
+- Understood the difference between Python lists and NumPy arrays
+- Explored one-dimensional (1D) and two-dimensional (2D) arrays
+- Learned the `shape` attribute to determine array dimensions
+- Practiced creating arrays using:
+  - `np.array()`
+- Learned the difference between:
+  - Scalar (0D array)
+  - 1D arrays
+  - 2D arrays
+- Accessed array elements using indexing
+- Performed basic NumPy array operations
