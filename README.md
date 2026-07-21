@@ -83,3 +83,15 @@ Developed a simple console-based Student Management System using Python fundamen
   - 2D arrays
 - Accessed array elements using indexing
 - Performed basic NumPy array operations
+
+## Day 7
+
+- Learned NumPy array indexing
+- Accessed elements in one-dimensional (1D) arrays
+- Accessed elements in two-dimensional (2D) arrays
+- Understood positive and negative indexing
+- Learned NumPy array slicing
+- Extracted subarrays using slice notation (`start:stop:step`)
+- Practiced row and column slicing in 2D arrays
+- Explored slicing with different ranges and step values
+- Strengthened understanding of efficient data access and manipulation using NumPy
