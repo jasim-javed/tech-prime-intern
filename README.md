@@ -95,3 +95,14 @@ Developed a simple console-based Student Management System using Python fundamen
 - Practiced row and column slicing in 2D arrays
 - Explored slicing with different ranges and step values
 - Strengthened understanding of efficient data access and manipulation using NumPy
+
+## Day 7
+
+- Learned NumPy data types (`dtypes`)
+- Explored common NumPy data types:
+- Understood the `dtype` attribute and how to check an array's data type
+- Learned how to specify the data type while creating NumPy arrays
+- Studied special NumPy values:
+  - `np.inf` (Positive Infinity)
+  - `-np.inf` (Negative Infinity)
+  - `np.nan` (Not a Number)
