@@ -96,7 +96,7 @@ Developed a simple console-based Student Management System using Python fundamen
 - Explored slicing with different ranges and step values
 - Strengthened understanding of efficient data access and manipulation using NumPy
 
-## Day 7
+## Day 8
 
 - Learned NumPy data types (`dtypes`)
 - Explored common NumPy data types:
