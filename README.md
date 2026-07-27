@@ -119,3 +119,23 @@ Developed a simple console-based Student Management System using Python fundamen
 - Found the index of minimum and maximum values using `np.argmin()` and `np.argmax()`
 - Performed statistical operations on one-dimensional and two-dimensional arrays
 - Improved understanding of data analysis using NumPy
+
+## Day 10
+
+- Learned array creation using NumPy
+- Created arrays using:
+  - `np.arange()`
+  - `np.linspace()`
+  - `np.zeros()`
+  - `np.ones()`
+  - Random number generation using the `numpy.random` module
+- Learned conditional selection using `np.where()`
+- Understood the difference between `range()` and `np.arange()`
+- Explored the difference between `np.arange()` and `np.linspace()`
+- Learned about array dimensions using the `shape` attribute
+- Reshaped arrays using `reshape()`
+- Converted multi-dimensional arrays into one-dimensional arrays using:
+  - `flatten()`
+  - `ravel()`
+- Understood the difference between `flatten()` and `ravel()`
+- Practiced creating, reshaping, and manipulating NumPy arrays
