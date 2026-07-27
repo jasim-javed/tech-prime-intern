@@ -106,3 +106,16 @@ Developed a simple console-based Student Management System using Python fundamen
   - `np.inf` (Positive Infinity)
   - `-np.inf` (Negative Infinity)
   - `np.nan` (Not a Number)
+
+## Day 9
+
+- Learned statistical operations in NumPy
+- Calculated the sum of array elements using `np.sum()`
+- Found the minimum and maximum values using `np.min()` and `np.max()`
+- Calculated the average (mean) using `np.mean()`
+- Found the median using `np.median()`
+- Calculated the standard deviation using `np.std()`
+- Calculated the variance using `np.var()`
+- Found the index of minimum and maximum values using `np.argmin()` and `np.argmax()`
+- Performed statistical operations on one-dimensional and two-dimensional arrays
+- Improved understanding of data analysis using NumPy
