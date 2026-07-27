@@ -139,3 +139,44 @@ Developed a simple console-based Student Management System using Python fundamen
   - `ravel()`
 - Understood the difference between `flatten()` and `ravel()`
 - Practiced creating, reshaping, and manipulating NumPy arrays
+
+## Week 2 Mini Project: Hospital Patient Data Analysis
+
+### Project Overview
+Developed a Hospital Patient Data Analysis system using NumPy to analyze patient information and perform basic statistical operations.
+
+### Features
+- Created patient datasets using NumPy arrays
+- Displayed patient information
+- Performed statistical analysis on patient data
+- Calculated:
+  - Total values
+  - Average (Mean)
+  - Minimum and Maximum values
+- Used array indexing and slicing to access patient records
+- Filtered patient records using `np.where()`
+- Generated sample data using:
+  - `np.arange()`
+  - `np.linspace()`
+  - `np.zeros()`
+  - `np.ones()`
+  - Random number generation
+- Reshaped arrays using `reshape()`
+- Converted arrays using `flatten()` and `ravel()`
+- Generated a simple hospital analysis report
+
+### Concepts Used
+- NumPy Arrays
+- Array Indexing
+- Array Slicing
+- Array Shape
+- Reshape
+- Flatten
+- Ravel
+- Statistical Operations
+- Conditional Selection using `np.where()`
+- Array Creation Functions
+- Random Number Generation
+
+### Learning Outcome
+This project strengthened my understanding of NumPy by applying array creation, indexing, slicing, reshaping, statistical analysis, and conditional filtering to a real-world hospital patient dataset.
