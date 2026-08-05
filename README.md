@@ -180,3 +180,27 @@ Developed a Hospital Patient Data Analysis system using NumPy to analyze patient
 
 ### Learning Outcome
 This project strengthened my understanding of NumPy by applying array creation, indexing, slicing, reshaping, statistical analysis, and conditional filtering to a real-world hospital patient dataset.
+
+## Day 11
+
+- Installed and imported the Pandas library
+- Learned the purpose of Pandas for data analysis and manipulation
+- Created and worked with Pandas Series
+- Created DataFrames from dictionaries and NumPy arrays
+- Loaded datasets for analysis
+- Explored DataFrames using:
+  - `head()`
+  - `tail()`
+  - `info()`
+  - `describe()`
+- Selected rows and columns from DataFrames
+- Accessed data using:
+  - `loc[]`
+  - `iloc[]`
+- Filtered data using conditional statements
+- Identified and handled missing values
+- Performed basic statistical analysis on datasets
+- Understood the relationship between NumPy and Pandas in data analysis
+
+### Learning Outcome
+This session introduced Pandas for efficient data analysis and manipulation. I learned how to create, explore, filter, and analyze tabular data using DataFrames and Series, preparing me for real-world data analysis projects.
