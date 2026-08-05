@@ -204,3 +204,29 @@ This project strengthened my understanding of NumPy by applying array creation, 
 
 ### Learning Outcome
 This session introduced Pandas for efficient data analysis and manipulation. I learned how to create, explore, filter, and analyze tabular data using DataFrames and Series, preparing me for real-world data analysis projects.
+
+
+## Day 12
+
+- Installed and imported the Pandas library
+- Learned the purpose of Pandas for data analysis
+- Explored the `Series` data structure
+- Created Series from:
+  - Python lists
+  - Dictionaries
+- Created Series with custom indexes
+- Accessed Series elements using index labels
+- Explored Series attributes:
+  - `values`
+  - `index`
+  - `shape`
+- Performed basic operations on Series:
+  - `sum()`
+  - `mean()`
+  - `max()`
+  - `min()`
+- Filtered Series using conditional expressions
+- Practiced data manipulation using Pandas Series
+
+### Learning Outcome
+This session introduced the fundamentals of the Pandas library. I learned how to create, access, analyze, and manipulate data using Pandas Series, providing a foundation for working with DataFrames and real-world datasets.
