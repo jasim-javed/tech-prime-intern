@@ -230,3 +230,112 @@ This session introduced Pandas for efficient data analysis and manipulation. I l
 
 ### Learning Outcome
 This session introduced the fundamentals of the Pandas library. I learned how to create, access, analyze, and manipulate data using Pandas Series, providing a foundation for working with DataFrames and real-world datasets.
+
+## day 13
+
+
+### Pandas DataFrame Operations
+
+#### Topics Covered
+
+- Created Pandas DataFrames from scratch using dictionaries
+- Read datasets from CSV and Excel files into DataFrames
+- Performed column manipulation by adding, updating, and deleting columns
+- Applied arithmetic operations on DataFrame columns
+- Identified and handled missing (null) values using Pandas functions
+- Filtered data using conditional statements
+- Explored unique values and detected duplicate records
+- Retrieved rows using index labels with `loc[]` and positions with `iloc[]`
+- Replaced values using the `replace()` method
+- Renamed columns and row indexes using `rename()`
+- Applied custom functions using `apply()` and `lambda`
+- Grouped data using `groupby()`
+- Performed grouping with multiple columns for advanced analysis
+- Combined DataFrames using `concat()`
+- Merged DataFrames using `merge()`
+- Joined DataFrames using `join()`
+- Worked with date and time data using Pandas datetime functions
+
+### Learning Outcome
+
+This session strengthened my understanding of Pandas DataFrame operations, including data creation, manipulation, filtering, handling missing values, grouping, combining datasets, and working with date and time. These concepts provide the foundation for performing real-world data analysis and preparing datasets for visualization and machine learning.
+
+## week 4
+
+### Data Visualization using Matplotlib
+
+#### Topics Covered
+
+- Imported and configured the Matplotlib library for data visualization
+- Created basic line plots
+- Visualized IMDb movie revenue using line plots
+- Plotted relationships between runtime, votes, and metascore
+- Customized line plots using:
+  - Colors
+  - Line styles
+  - Markers
+  - Line width
+- Added chart elements:
+  - Titles
+  - X-axis labels
+  - Y-axis labels
+  - Grid
+  - Legends
+- Created scatter plots to visualize relationships between variables
+- Created bar charts for categorical data comparison
+- Generated histograms to analyze data distribution
+- Worked with subplots to display multiple charts in a single figure
+- Created zoomed-in subplots to highlight specific data regions
+- Designed pie charts to visualize percentage distributions
+- Customized figure size and layout using `figure()` and `figsize`
+
+### Learning Outcome
+
+This session introduced the fundamentals of data visualization using Matplotlib. I learned how to create and customize different types of charts, compare datasets visually, and present data effectively through line plots, scatter plots, bar charts, histograms, pie charts, and subplots. These visualization techniques are essential for exploratory data analysis and reporting.
+
+## Week 4 Mini Project: Netflix Data Analysis
+
+### Project Overview
+
+Developed a Netflix Data Analysis project using **Pandas** for data manipulation and **Matplotlib** for data visualization. The project analyzes a sample Netflix dataset to gain insights into ratings, genres, views, and release years through statistical analysis and graphical representation.
+
+### Features
+
+- Created and managed a Netflix dataset using a Pandas DataFrame
+- Explored the dataset using:
+  - `head()`
+  - `info()`
+  - `describe()`
+- Filtered data based on different conditions
+- Found the highest and lowest rated shows
+- Calculated average ratings and views
+- Counted shows by genre using `value_counts()`
+- Retrieved the most viewed shows using `nlargest()`
+- Created new columns using `apply()` with `lambda`
+- Performed data grouping using `groupby()`
+- Visualized the dataset using:
+  - Line Plot
+  - Scatter Plot
+  - Bar Chart
+  - Pie Chart
+- Customized charts with titles, labels, markers, and grid
+
+### Concepts Used
+
+- Pandas DataFrame
+- Data Exploration
+- Data Filtering
+- Statistical Analysis
+- `value_counts()`
+- `groupby()`
+- `apply()` with `lambda`
+- Matplotlib
+- Line Plot
+- Scatter Plot
+- Bar Chart
+- Pie Chart
+- Data Visualization
+
+### Learning Outcome
+
+This project enhanced my understanding of data analysis and visualization using Pandas and Matplotlib. I learned how to organize, analyze, summarize, and visualize datasets to extract meaningful insights, strengthening my practical skills in Python for data analysis.
