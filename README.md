@@ -339,3 +339,23 @@ Developed a Netflix Data Analysis project using **Pandas** for data manipulation
 ### Learning Outcome
 
 This project enhanced my understanding of data analysis and visualization using Pandas and Matplotlib. I learned how to organize, analyze, summarize, and visualize datasets to extract meaningful insights, strengthening my practical skills in Python for data analysis.
+
+
+## EDA Practice
+
+- Practiced Exploratory Data Analysis (EDA) using Pandas
+- Explored datasets using `head()`, `shape`, and `describe()`
+- Checked missing and duplicate values
+- Worked with unique values and value counts
+- Practiced filtering DataFrames
+- Performed basic statistical analysis
+- Used `groupby()` for data analysis
+- Practiced correlation between numerical columns
+- Created basic visualizations using Matplotlib:
+  - Histogram
+  - Scatter Plot
+  - Bar Chart
+
+### Learning Outcome
+
+Practiced the basic process of exploring, understanding, and analyzing data using Pandas and Matplotlib as part of Exploratory Data Analysis (EDA).
