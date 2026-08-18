@@ -359,3 +359,19 @@ This project enhanced my understanding of data analysis and visualization using 
 ### Learning Outcome
 
 Practiced the basic process of exploring, understanding, and analyzing data using Pandas and Matplotlib as part of Exploratory Data Analysis (EDA).
+
+
+# day 15
+## Seaborn Practice
+
+- Introduced the Seaborn library for data visualization
+- Loaded and explored a sample dataset using `sns.load_dataset()`
+- Created scatter plots using `sns.scatterplot()`
+- Used `hue` to represent different categories with colors
+- Used `style` to represent categories with different markers
+- Created line plots using `sns.lineplot()`
+- Practiced using `hue` with line plots for category-based visualization
+
+### Learning Outcome
+
+Practiced the basics of Seaborn for creating simple and informative statistical visualizations and learned how `hue` and `style` can be used to represent different categories in a plot.
